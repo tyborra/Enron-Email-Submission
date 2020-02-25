@@ -1,2 +1,2 @@
-# Enron-Email-Submission
-From Udacity DAND
+# Enron Email Project
+>Submission
